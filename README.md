@@ -1,6 +1,6 @@
-# FitGraph - AI-Powered Workout Generator & Tracker
+# Athlora - AI-Powered Workout Generator & Tracker
 
-FitGraph is a modern web application that helps users plan and track their workouts while providing AI-powered workout recommendations. It offers detailed analytics, integration with fitness platforms like Strava and Garmin, and personalized workout routines.
+Athlora is a modern web application that helps users plan and track their workouts while providing AI-powered workout recommendations. It offers detailed analytics, integration with fitness platforms like Strava and Garmin, and personalized workout routines.
 
 ## Features
 
@@ -34,8 +34,8 @@ FitGraph is a modern web application that helps users plan and track their worko
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/fitgraph.git
-   cd fitgraph
+   git clone https://github.com/yourusername/Athlora.git
+   cd Athlora
    ```
 
 2. Install dependencies:

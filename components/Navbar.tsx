@@ -7,7 +7,7 @@ export default function Navbar() {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
             <Link href="/" className="flex-shrink-0 flex items-center">
-              <span className="text-xl font-bold">FitGraph</span>
+              <span className="text-xl font-bold">Athlora</span>
             </Link>
             <div className="hidden md:block">
               <div className="ml-10 flex items-baseline space-x-4">
