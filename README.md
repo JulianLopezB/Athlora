@@ -86,9 +86,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- OpenAI for providing the AI capabilities
-- Strava and Garmin for their API services
-- The Next.js and Supabase teams for their excellent documentation and examples
